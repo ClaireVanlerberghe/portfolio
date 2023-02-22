@@ -1,0 +1,12 @@
+.menu{
+    display: flex;
+    align-items: center;
+    padding-right: 25px;
+}
+.navbar{
+    text-decoration: none;
+    color: white;
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+    padding: 0px 30px 0px 30px;
+}
