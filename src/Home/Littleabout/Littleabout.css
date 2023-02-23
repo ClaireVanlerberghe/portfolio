@@ -1,0 +1,28 @@
+.accueil-image-about{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 35px;
+
+}
+.accueil-about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Cinzel', serif;
+    color: white;
+    margin-left: 150px;
+}
+.accueil-about-title{
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+.accueil-about-text{
+    font-size: 25px;
+    width: 480px;
+    height: 100px;
+    overflow: hidden;
+    text-align: center;
+}

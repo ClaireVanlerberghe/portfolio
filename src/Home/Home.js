@@ -1,8 +1,14 @@
+import "./Home.css"
+import Littleabout from "./Littleabout/Littleabout"
+import Stacks from "./Skills/Stacks"
 
 
 function Home() {
     return(
-    <p>Coucou</p>
+        <div>
+      <Littleabout />
+      <Stacks />
+      </div>
     )
 }
 
