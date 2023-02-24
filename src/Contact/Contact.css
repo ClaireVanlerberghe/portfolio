@@ -1,0 +1,9 @@
+.contact{
+    background: rgba(255, 255, 255, 0.33);
+    border-radius: 30px;
+    margin-top: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
