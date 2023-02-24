@@ -5,8 +5,11 @@ import "./index.css"
 
 import Header from "./Header/Header";
 import Home from "./Home/Home.js";
-import Footer from "./Footer/Footer";
 import Contact from "./Contact/Contact";
+import About from "./About/About";
+
+import Footer from "./Footer/Footer";
+
 
 const root = createRoot(document.getElementById("root"));
 root.render(
@@ -15,6 +18,8 @@ root.render(
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/contact" element={<Contact />} />
+      <Route path="/about" element={<About />} />
+     
     </Routes>
     <Footer />
   </BrowserRouter>
