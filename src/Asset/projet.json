@@ -1,57 +1,50 @@
 [
     {
-        "id":"khjdfhks33",
+        "id":"1",
         "url":"https://kasa-kohl.vercel.app/",
-        "image":"https://ibb.co/y0KMVf1",
+        "image":"https://i.ibb.co/4tqWSys/kasa2.png",
         "title":"Kasa",
-        "description":"Site internet de location de logements. j'ai réalisé le front de ce projet.",
-        "stacks": [
-            "https://ibb.co/n8YFc2c",
-            "https://ibb.co/YL79yFM"
-        ]
+        "description":"Site internet de location de logements. J'ai réalisé le front de ce projet",
+        "stacks":"React, Css"
     },
     {
-        "id":"khjdfhks32",
+        "id":"2",
         "url":"https://kasa-kohl.vercel.app/",
-        "image":"https://ibb.co/y0KMVf1",
+        "image":"https://i.ibb.co/4tqWSys/kasa2.png",
         "title":"Homenails",
         "description":"Site e-commerce de vente de press-on-nails. En cours de développement.",
-        "stacks": [
-            "https://ibb.co/mHZ6kkn",
-            "https://ibb.co/YL79yFM"
-        ]
+        "stacks":"React, SASS"
     },
     {
-        "id":"khjdfhks34",
-        "url":"https://kasa-kohl.vercel.app/",
-        "image":"https://ibb.co/y0KMVf1",
-        "title":"Homenails",
-        "description":"Site e-commerce de vente de press-on-nails. En cours de développement.",
-        "stacks": [
-            "https://ibb.co/mHZ6kkn",
-            "https://ibb.co/YL79yFM"
-        ]
+        "id":"3",
+        "url":"https://darling-basbousa-272042.netlify.app",
+        "image":"https://i.ibb.co/WgWSX5d/Capture-d-cran-2023-07-18-221127.png",
+        "title":"OhMyFood",
+        "description":"Site internet qui répertorie les menus de restaurants gastronomiques.",
+        "stacks":"HTML, SASS"
     },
     {
-        "id":"khjdfhks35",
+        "id":"4",
         "url":"https://kasa-kohl.vercel.app/",
-        "image":"https://ibb.co/y0KMVf1",
+        "image":"https://i.ibb.co/4tqWSys/kasa2.png",
         "title":"Homenails",
         "description":"Site e-commerce de vente de press-on-nails. En cours de développement.",
-        "stacks": [
-            "https://ibb.co/mHZ6kkn",
-            "https://ibb.co/YL79yFM"
-        ]
+        "stacks":"React, Css"
     },
     {
-        "id":"khjdfhks39",
+        "id":"5",
         "url":"https://kasa-kohl.vercel.app/",
-        "image":"https://ibb.co/y0KMVf1",
+        "image":"https://i.ibb.co/4tqWSys/kasa2.png",
         "title":"Homenails",
         "description":"Site e-commerce de vente de press-on-nails. En cours de développement.",
-        "stacks": [
-            "https://ibb.co/mHZ6kkn",
-            "https://ibb.co/YL79yFM"
-        ]
+        "stacks":"React, Css"
+    },
+    {
+        "id":"5",
+        "url":"https://kasa-kohl.vercel.app/",
+        "image":"https://i.ibb.co/4tqWSys/kasa2.png",
+        "title":"Homenails",
+        "description":"Site e-commerce de vente de press-on-nails. En cours de développement.",
+        "stacks":"React, Css"
     }
 ]

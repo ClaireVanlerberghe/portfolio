@@ -7,7 +7,7 @@ import Header from "./Header/Header";
 import Home from "./Home/Home.js";
 import Contact from "./Contact/Contact";
 import About from "./About/About";
-
+import Projectpage from "./Project/Projectpage";
 import Footer from "./Footer/Footer";
 
 
@@ -19,7 +19,7 @@ root.render(
       <Route path="/" element={<Home />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/about" element={<About />} />
-     
+      <Route path="/project" element={<Projectpage />} />
     </Routes>
     <Footer />
   </BrowserRouter>

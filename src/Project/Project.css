@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;900&display=swap');
+
+
+.projectContainer{
+    background: rgba(255, 255, 255, 0.33);
+    border-radius: 20px;
+    width: 380px;
+    font-family: 'Cinzel', serif;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-bottom: 30px;
+}
+
+.projectContainer:hover{
+    transform: scale(1.05);
+}
+
+.project{
+    text-decoration: none;
+}
+
+.projectTexte{
+    color: white;
+    padding-left: 15px;
+}
+
+.projectTitle{
+    margin-top: 0px;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.projectImage{
+    width: 350px;
+    border-radius: 15px;
+    margin: 15px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.137);
+}
