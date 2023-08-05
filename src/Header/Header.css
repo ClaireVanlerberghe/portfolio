@@ -16,7 +16,7 @@
 @media screen and (max-width: 500px) {
     .header{
         border-radius: 25px;
-        width: 350px;
+        width: 100%;
         padding-right: 15px;
     }
 

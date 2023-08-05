@@ -27,7 +27,7 @@
     text-align: center;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
     .accueil-image-about{
         flex-direction: column;
     }

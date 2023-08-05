@@ -16,11 +16,15 @@
     height: 100px;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
     .stacks-title{
         font-size: 30px;
     }
     .stacks-logos{
         flex-direction: column;
     }
+}
+
+@media screen and (max-width: 501px) {
+    
 }
