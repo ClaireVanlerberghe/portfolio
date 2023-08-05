@@ -43,3 +43,14 @@
 .navbar:hover::before{
     transition-delay: 0s;
 }
+
+
+@media screen and (max-width: 400px) {
+    .navbar{
+        font-size: 16px;
+        padding: 10px 13px 10px 13px;
+    }
+    #aboutNavbar{
+        width: 76px;
+    }
+}

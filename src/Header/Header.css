@@ -12,3 +12,17 @@
     align-items: center;
     padding: 10px 0px 5px 20px;
 }
+
+@media screen and (max-width: 500px) {
+    .header{
+        border-radius: 25px;
+        width: 350px;
+        padding-right: 15px;
+    }
+
+    .Logoheader{
+        width: 45px;
+        padding-left: 15px;
+
+    }
+}

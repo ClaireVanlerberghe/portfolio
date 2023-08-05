@@ -9,11 +9,11 @@
     },
     {
         "id":"2",
-        "url":"https://kasa-kohl.vercel.app/",
-        "image":"https://i.ibb.co/4tqWSys/kasa2.png",
+        "url":"https://www.figma.com/file/Ow8OKvMKR3I08mNV282deB/Homenails-Design?type=design&node-id=0%3A1&mode=design&t=SpasNMGv8rbMkKEp-1",
+        "image":"https://i.ibb.co/By6dcBg/Capture-d-cran-2023-08-04-202051.png",
         "title":"Homenails",
         "description":"Site e-commerce de vente de press-on-nails. En cours de développement.",
-        "stacks":"React, SASS"
+        "stacks":"Figma, React, SASS"
     },
     {
         "id":"3",
@@ -25,26 +25,26 @@
     },
     {
         "id":"4",
-        "url":"https://kasa-kohl.vercel.app/",
-        "image":"https://i.ibb.co/4tqWSys/kasa2.png",
-        "title":"Homenails",
-        "description":"Site e-commerce de vente de press-on-nails. En cours de développement.",
-        "stacks":"React, Css"
+        "url":"https://www.figma.com/file/Wxx3ZvZNeplkqbPFDSlujx/Moncada-FM?type=design&node-id=0%3A1&mode=design&t=eSCU7E25TzCWy2f9-1",
+        "image":"https://i.ibb.co/6Rs8cYy/Capture-d-cran-2023-08-04-202502.png",
+        "title":"Moncada FM",
+        "description":"Maquette web radio. Interface administrateur.",
+        "stacks":"Figma"
     },
     {
         "id":"5",
-        "url":"https://kasa-kohl.vercel.app/",
-        "image":"https://i.ibb.co/4tqWSys/kasa2.png",
-        "title":"Homenails",
-        "description":"Site e-commerce de vente de press-on-nails. En cours de développement.",
-        "stacks":"React, Css"
+        "url":"https://www.figma.com/file/oZQlfLF4NHVsFSgCd5OCEq/Unicornis?type=design&node-id=0%3A1&mode=design&t=joDabRUdJ94tvZKe-1",
+        "image":"https://i.ibb.co/XxxJQYF/Capture-d-cran-2023-08-04-203306.png",
+        "title":"Unicornis",
+        "description":"Maquette e-commerce de licornes.",
+        "stacks":"Procreate, Figma"
     },
     {
         "id":"5",
-        "url":"https://kasa-kohl.vercel.app/",
-        "image":"https://i.ibb.co/4tqWSys/kasa2.png",
-        "title":"Homenails",
-        "description":"Site e-commerce de vente de press-on-nails. En cours de développement.",
-        "stacks":"React, Css"
+        "url":"https://www.figma.com/file/kfcqw7R8jCOqt2LlkH4aTc/excelator?type=design&node-id=0%3A1&mode=design&t=mRWHblIgwpU2SGD0-1",
+        "image":"https://i.ibb.co/hYrpk8c/Capture-d-cran-2023-08-04-204333.png",
+        "title":"Mathieu DS.",
+        "description":"Maquette site e-learning Excel.",
+        "stacks":"Figma"
     }
 ]

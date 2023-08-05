@@ -6,7 +6,7 @@ function Navbar() {
     return(
         <div className="menu">
         <NavLink to="/project" className="navbar">Projets</NavLink>
-        <NavLink to="/about" className="navbar">A propos</NavLink>
+        <NavLink to="/about" id="aboutNavbar" className="navbar">A propos</NavLink>
         <NavLink to="/contact" className="navbar">Contact</NavLink>
         </div>
     )

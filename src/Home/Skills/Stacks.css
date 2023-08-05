@@ -15,3 +15,12 @@
 .logoreact{
     height: 100px;
 }
+
+@media screen and (max-width: 400px) {
+    .stacks-title{
+        font-size: 30px;
+    }
+    .stacks-logos{
+        flex-direction: column;
+    }
+}

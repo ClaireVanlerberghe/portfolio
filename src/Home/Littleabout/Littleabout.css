@@ -26,3 +26,28 @@
     overflow: hidden;
     text-align: center;
 }
+
+@media screen and (max-width: 400px) {
+    .accueil-image-about{
+        flex-direction: column;
+    }
+
+    .imageAccueil{
+        width: 250px;
+        margin: auto;
+    }
+    .accueil-about{
+        text-align: center;
+        margin-left: 0px;
+        
+    }
+    .accueil-about-title{
+        font-size: 30px;
+    }
+    .accueil-about-text{
+        font-size: 20px;
+        max-width: 100%;
+        overflow-wrap: break-word;
+        padding: 0 10px 0 10px;
+    }
+}
